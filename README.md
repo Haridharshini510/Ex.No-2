@@ -84,6 +84,12 @@ return 0;
 
 ```
 ## INPUT:
+```
+#include<stdio.h> 
+int main(){
+int a,b; return 0;
+}
+```
 
 ## OUTPUT:
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cc0618e1-4544-435f-906d-ef4d657d1c98" />
